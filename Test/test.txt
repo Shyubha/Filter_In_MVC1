@@ -1,0 +1,22 @@
+﻿
+
+
+
+
+ On action executing->20-04-2022 10:53:18
+
+On action executed ->20-04-2022 10:53:18
+On result executing ->Home->Index 20-04-2022 10:53:18
+On result executed-> Home->Index 20-04-2022 10:53:19
+
+ On action executing->20-04-2022 10:53:25
+
+On action executed ->20-04-2022 10:53:25
+On result executing ->Home->Privacy 20-04-2022 10:53:25
+On result executed-> Home->Privacy 20-04-2022 10:53:25
+
+ On action executing->20-04-2022 12:38:11
+
+On action executed ->20-04-2022 12:38:11
+On result executing ->Home->Index 20-04-2022 12:38:11
+On result executed-> Home->Index 20-04-2022 12:38:11
